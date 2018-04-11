@@ -1,10 +1,4 @@
-//
-//  ViewController.swift
-//  app-swoosh
-//
-//  Created by Faris Dahleh on 4/9/18.
-//  Copyright © 2018 Faris Dahleh. All rights reserved.
-//
+
 
 import UIKit
 
