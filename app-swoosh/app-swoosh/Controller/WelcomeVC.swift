@@ -2,7 +2,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class WelcomeVC: UIViewController {
 
     @IBOutlet var bgImg: UIImageView!
     
